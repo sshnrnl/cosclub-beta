@@ -81,7 +81,7 @@ export function Slider() {
       bio: "真の魔法使いは、その手の内を決して明かさない。💫",
     },
     {
-      name: "Mikaela Hyakuya",
+      name: "Mikaela",
       anime: "Seraph of the End",
       bio: "Once I have the power, I'll get revenge for the death of my family.",
     },
